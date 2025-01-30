@@ -1,0 +1,7 @@
+beans 5 50
+grapes 5 10
+chips 50 5
+fish 5 10
+milk 3 2
+cereal 2 2
+carrot 5 3
